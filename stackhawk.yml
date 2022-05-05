@@ -18,3 +18,5 @@ app:
   autoPolicy: true
   autoInputVectors: true
   # Configuration Docs: https://docs.stackhawk.com/hawkscan/configuration/
+  
+  
